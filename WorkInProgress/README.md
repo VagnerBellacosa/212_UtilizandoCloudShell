@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Utilizando o Cloud Shell](https://web.dio.me/lab/utilizando-o-cloud-shell/learning/12682c7c-cd9c-409d-ab44-d8c518a1a6bc)[Entendendo o desafio](https://web.dio.me/lab/utilizando-o-cloud-shell/learning/edc1d46f-c51f-431f-93f1-8a38438690e8)
+- [Utilizando o Cloud Shell](https://web.dio.me/lab/utilizando-o-cloud-shell/learning/12682c7c-cd9c-409d-ab44-d8c518a1a6bc)
+- [Entendendo o desafio](https://web.dio.me/lab/utilizando-o-cloud-shell/learning/edc1d46f-c51f-431f-93f1-8a38438690e8)
 
 # Entendendo o Desafio
 
